@@ -19,6 +19,7 @@
 
 <br/>
 <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Profile.png" width="500" />
+<br/>
 <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Ye.png" width="300" align="right" />
 <br/>
 <br/>
