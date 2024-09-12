@@ -20,9 +20,8 @@
 <br/>
 <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Profile.png" width="500" />
 <br/>
+<br/>
 <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Ye.png" width="300" align="right" />
-<br/>
-<br/>
   
 <a href="https://teamneo.xyz/"  align="left">
     <img width="400" src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Projects/Team%20Neo.png">
