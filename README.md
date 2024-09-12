@@ -32,14 +32,12 @@
 <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Discord.png" width="500" />
 <br/>
 <br/>
-<br/>
 
 <a href="https://discord.com/users/721746046543331449">
     <img src="https://lanyard.cnrad.dev/api/853592633489227776?theme=dark&bg=121212&borderRadius=10px&animated=true&idleMessage=Prolly%20chillin%27%20or%20smt%20%20%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF">
 </a>
 </div>
 
-<br/>
 <br/>
 <br/>
 
