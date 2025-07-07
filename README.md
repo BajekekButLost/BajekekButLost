@@ -6,7 +6,7 @@
 <br/>
   
 - <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Icons/Hungary.webp" alt="." height="16"/> Hungarian resident  
-- <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Icons/Age.gif" alt="." height="16" /> 16 yrs 
+- <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Icons/Age.gif" alt="." height="16" /> 17 yrs 
 - <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Icons/Discord.js.png" alt="." height="16"/> Discord.js Developer 
 - 🎮 Yk, in my free time (I get bored of my VSC pets), I hop on Valorant (banned), or Fortnite (trash at the game) or maybe Minecraft (keep dying to creepers)
 - <img src="https://raw.githubusercontent.com/BajekekButLost/BajekekButLost/main/Icons/Developer.gif" alt="." height="16" /> Languages I'm actually decent at are <img src="https://cdn.simpleicons.org/JavaScript" alt="." width="16" height="16"/> JavaScript (via [NodeJS](https://nodejs.org/)) and <img src="https://cdn.simpleicons.org/TypeScript" alt="." width="16" height="16"/> TypeScript
